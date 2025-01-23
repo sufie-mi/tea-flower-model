@@ -1,6 +1,6 @@
 # tea-flower-model
 There are data and code that were used in a tea flower quantifying study, titled "Dynamic Estimation of Tea Flowering Based on an Improved YOLOv5 and ANN Model".
-This project comprises four parts: the dataset, TflosYOLO, TFSC, and tea flowering dynamics visualization.
+This project comprises four branches: the dataset, TflosYOLO, TFSC, and tea flowering dynamics visualization.
 
 Details:
 
