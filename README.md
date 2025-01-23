@@ -10,4 +10,4 @@ TflosYOLO was obtained by training and improving the YOLOv5 model, the purpose i
 
 The TFSC (Tea Flowering Stage Classification) model is an Artificial Neural Network (ANN). This project provides the model architecture and the corresponding code for its implementation.
 
-The tea flowering dynamics visualization code generates dynamic change graphs for three types of flower counts: buds, blooming flowers (B flowers), and withered flowers (W flowers) over time.
+The tea flowering dynamics visualization code generates dynamic change graphs for three types of flower counts: flower buds, blooming flowers (B flowers), and withered flowers (W flowers) over time.
